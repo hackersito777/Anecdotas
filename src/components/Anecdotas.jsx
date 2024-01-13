@@ -55,7 +55,7 @@ const Anecdotas = () => {
 
 
 <Helmet>
-  <title>Anécdotas Extraordinarias - Descubre y Comparte Experiencias Únicas</title>
+  <title>Anécdotas - Anecdotas de la vida - Anécdotas cristianas - Anécdotas de famosos - Anécdotas graciosas - Anécdotas inspiradoras - Anécdotas históricas - Anécdotas de animales</title>
   <meta name="description" content="Explora y comparte anécdotas extraordinarias en nuestro sitio web. Sumérgete en historias fascinantes y encuentra inspiración en las experiencias de los demás." />
   <meta name="keywords" content="Anécdotas, Historias, Inspiración, Experiencias, Compartir, Emociones, Conexión" />
   <meta name="author" content="Yefer Sorners Boom" />
