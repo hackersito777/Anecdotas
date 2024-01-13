@@ -8,7 +8,7 @@ display: grid;
 text-align: center;
 margin-left: 50px;
 margin-right: 50px;
-width: auto;
+width: 100%;
 font-family: "Source Sans Pro", sans-serif;
 color: rgb(0, 0, 0);
 font-size: 20px;
@@ -23,6 +23,6 @@ display: grid;
 background-color: blueviolet;
 justify-content: center;
 text-align: center;
-width: auto;
+
 margin: 3%;
 }
